@@ -41,7 +41,7 @@
 
 <mark>`<preencher abaixo>`</mark>
 
-![Visualização resultante](imagem-da-visualizacao.png)
+![Visualização resultante](Grafico_Barras_Nascimentos_Brasil.png)
 
 ## Descrição da visualização
 
