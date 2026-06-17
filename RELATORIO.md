@@ -67,7 +67,7 @@
 > - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
 > - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
 
-<mark>`No eixo x tem os anos e no eixo y as faixa etarias das mães. Quanto mais intensa for a cor do azul menor é a quantidade de nascimentos e quanto mais intensa for a cor do vermelho maior sera a quantidade de nascimentos`</mark>
+<mark>`No eixo x tem os anos e no eixo y as faixa etarias das mães. Quanto mais intensa for a cor do azul menor é a quantidade de nascimentos e quanto mais intensa for a cor do vermelho maior sera a quantidade de nascimentos. E dentro da cada caixinha do mapa de calor tem a quantidade de nascimentos.`</mark>
 
 ### Conclusão demonstrada pela visualização
 
