@@ -52,7 +52,22 @@
 > - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
 > - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
 
-<mark>`<preencher>`</mark>
+<mark>`No eixo x tem os anos e no eixo y a quantidade de nascimentos de 0 a 3000, onde cada valor representa milhares, ou seja vai de 0 a 3000000`</mark>
+
+## Imagem da visualização gerada
+
+![Visualização resultante](Mapa_Calor_Nascimentos_Brasil.png)
+
+## Descrição da visualização
+
+### Legenda (*caption*)
+
+> [!IMPORTANT]
+>
+> - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
+> - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
+
+<mark>`No eixo x tem os anos e no eixo y as faixa etarias das mães. Quanto mais intensa for a cor do azul menor é a quantidade de nascimentos e quanto mais intensa for a cor do vermelho maior sera a quantidade de nascimentos`</mark>
 
 ### Conclusão demonstrada pela visualização
 
@@ -61,4 +76,4 @@
 > - Escreva uma conclusão curta sobre os dados com base na visualização.
 > - Explique qual insight, padrão ou tendência pode ser observado.
 
-<mark>`<preencher>`</mark>
+<mark>`No grafico de barras é possivel visualizar uma queda significativa na quantidade total de nascimentos no brasil nos ultimos anos. No mapa de calor é possivel identificar as faixas etarias em que os brasileiros costumam ter filhos, também é possivel identificar que houve uma mudança gradativa ao longo dos anos da faixa etaria onde as pessoas mais tem filhos. Outros fatores interessantes que o mapa de calor mostra é como diminuiu a quantidade de nascimentos na faixa etaria de 10 a 14 anos, e também como nas faixas etarias mais elevadas como 50 a 54 e 55 a 59 houve um aumento de nascimentos`</mark>
